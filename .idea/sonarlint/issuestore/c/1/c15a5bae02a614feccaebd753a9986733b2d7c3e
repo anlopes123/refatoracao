@@ -1,0 +1,17 @@
+
+	java:S109'"TAssign this magic number 1.5 to a well-named constant, and use the constant instead.(Ñì²¬J$8ad4448f-7f27-4862-a8a4-a81a06652001
+	java:S109("RAssign this magic number 3 to a well-named constant, and use the constant instead.(Å˜ÚÏJ$d3edd6ed-3ef8-4cb8-ac65-4f0861848e1a
+’	java:S109)"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÜæÁôşÿÿÿÿJ$301174b3-3d51-4d2e-bce2-5c7b89412564
+”	java:S109)"TAssign this magic number 1.5 to a well-named constant, and use the constant instead.(ÜæÁôşÿÿÿÿJ$5917601a-ae4e-4c63-9d86-01072c24cf7a
+	java:S109,"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ó›ìÇJ$9a811631-3594-4afe-b79f-1a31940c451f
+’	java:S109-"RAssign this magic number 2 to a well-named constant, and use the constant instead.(¿Öê×üÿÿÿÿJ$b84c97c4-d805-453e-8be8-9b851e34d49b
+’	java:S109."RAssign this magic number 2 to a well-named constant, and use the constant instead.(úİè³şÿÿÿÿJ$695bf9f2-5e02-48dd-a2ed-89d446369eec
+”	java:S109."TAssign this magic number 1.5 to a well-named constant, and use the constant instead.(úİè³şÿÿÿÿJ$ef033014-86f8-48ba-a948-3b9a3b7583e7
+’	java:S1091"RAssign this magic number 3 to a well-named constant, and use the constant instead.(½ó®ŞùÿÿÿÿJ$da6cb16a-a70b-4270-a4aa-23877dc5d077
+m
+java:S1153G"1Directly append the argument of String.valueOf().(ºıˆôJ$f986477b-08b6-4f78-92e6-28bf74552cfd
+d	java:S131%""Add a default case to this switch.(‹éíË8Î“ÍÊ»1J$7942b5ad-1be9-4503-86f4-2a2cbae72130
+O	java:S121("Missing curly brace.(Å˜ÚÏJ$79d0602e-c036-43f8-a9bf-9c32e2be6dbd
+T	java:S121-"Missing curly brace.(¿Öê×üÿÿÿÿJ$ed6e5c45-fa73-43dd-92ba-f2287d059f69
+v	java:S125<"<This block of commented-out lines of code should be removed.(ÓĞnJ$16e76b52-d32e-41af-b51c-24126bcc8da2
+O	java:S121A"Missing curly brace.(¤é âJ$9fbd17e6-4980-4cef-bf65-304c58b5df4a
