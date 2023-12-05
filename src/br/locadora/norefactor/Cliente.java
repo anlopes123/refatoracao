@@ -28,12 +28,6 @@ public class Cliente {
         dados.append("Registro de Aluguéis do cliente: " + getNome() + "\n");
         for (Aluguel aluguel : this.alugueis) {
             double valor = 0;
-
-            // Calcula o valor do aluguel
-            //vamos utilizar extrair Método
-            // depois mover método
-            //
-
             switch (aluguel.getFilme().getPreco()) {
                 case Filme.NORMAL:
                     valor += 1.5;
@@ -49,15 +43,6 @@ public class Cliente {
                     valor += aluguel.getDiasAluguel() * 3;
                     break;
             }
-
-            // Adiciona um ponto
-            //vamos utilizar extrair Método
-            // depois mover método
-            // depois que estiver no local correto vamos aplicar noamente
-            // mover metodo para a classe Filme mais agora com um adendo que
-            // é manter o método original na classe aluguel
-            // a próxima refatoração a aplicar a técnica trocar condicional por polimorfismo
-            // com isso ganhamos mais flexibilidade para modificar a classe;
 
             pontos++;
 
